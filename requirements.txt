@@ -1,0 +1,4 @@
+svgwrite
+cairosvg
+scipy
+matplotlib
